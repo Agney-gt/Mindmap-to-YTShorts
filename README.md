@@ -6,7 +6,11 @@
    ![image](https://github.com/user-attachments/assets/22dd2124-d3c3-47ca-9f3e-0c79aa96b85a)
 
 5. Use https://www.y2map.com and create a Mindmap out of youtube videos (Use Fullscreen Mode and Save a Screenshot)
-6. Review the mindmap to highlight key insights, then use YouTube’s transcript and Ctrl + F to locate the matching timestamps.
+   ![image](https://github.com/user-attachments/assets/202116da-1b05-4ad9-bc20-c4fa54499621)
+
+6. Review the mindmap to highlight key insights (Here we want to focus on the "Market and Brand" part) , then use YouTube’s transcript and Ctrl + F to locate the matching timestamps.
+   ![image](https://github.com/user-attachments/assets/64feeae7-3288-462a-99b8-bf8a6aee327b)
+
 7. Create timestamps.txt with as many snippets you like.
 8. Run slice.bat
 9. Create split screen shorts with canva https://www.canva.com/create/short-videos/
