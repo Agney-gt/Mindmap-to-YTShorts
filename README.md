@@ -2,7 +2,7 @@
 
 1. Use Brave Browser to Skip Ads
 2. Download and Install FFMPEG to slice Videos: https://www.youtube.com/watch?v=6sim9aF3g2c (Dont forget to add to PATH)
-4. Use https://www.y2map.com and create a Mindmap out of youtube videos
+4. Use https://www.y2map.com and create a Mindmap out of youtube videos (Use Fullscreen Mode and Save a Screenshot)
 5. Identify time stamps using youtube's transcript and CTRL + F 
 6. Create timestamps.txt
 5. Run slice.bat
