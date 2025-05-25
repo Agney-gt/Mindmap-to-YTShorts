@@ -1,4 +1,4 @@
-# Create and Schedule Shorts - Free Workflow
+# Create and Schedule Shorts - Workflow
 
 1. Use Brave Browser to Skip Ads
 2. Download and Install FFMPEG to slice Videos: https://www.youtube.com/watch?v=6sim9aF3g2c (Dont forget to add to PATH)
